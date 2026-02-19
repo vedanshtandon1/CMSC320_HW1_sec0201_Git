@@ -3,4 +3,7 @@ Q1: Why might we consider using Git?
 Answer: It helps version control, and helps us save code before we make 
 changes in case our changes break the code
 
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Any field really, for example Gas&Oil, sports analyitics, finance.
 
